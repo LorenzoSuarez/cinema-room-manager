@@ -1,4 +1,4 @@
-# cinema-room-manager
+# Cinema Room Manager
 Jetbrains academy project
 
 Description
